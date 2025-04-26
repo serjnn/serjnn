@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on [Study Bradi - student platform](https://t.me/springout_bot)
 
-- 📫 How to reach me **sergey6622666@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:**sergey6622666@gmail.com**</h3>
 <p align="left">
 </p>
 
