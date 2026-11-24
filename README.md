@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sergey</h1>
 <h3 align="center">Motivated and passionate Java Backend Developer with strong hands-on experience in building distributed systems and startup development. Skilled in designing secure, scalable architectures using microservices, reactive programming, and modern Java ecosystems. Focused on performance optimization, code quality, and system resilience. Effective team player with experience in technical leadership, communication, and problem-solving.</h3>
 
-- 🔭 I’m currently working on [Study Bradi - student platform](https://t.me/springout_bot)
-  
-- 📫 How to reach me **sergey6622666@gmail.com**
+
   
 
 <p align="left">
